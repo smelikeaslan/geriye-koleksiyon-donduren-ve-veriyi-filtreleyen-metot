@@ -1,0 +1,1 @@
+# geriye-koleksiyon-donduren-ve-veriyi-filtreleyen-metot
